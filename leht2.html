@@ -3,13 +3,22 @@
 <head>
 	<title>Player</title>
 	<link rel="stylesheet" href="leht2.css">
+    <a href="pealeht.html">pealeht</a>
+    <a href="leht1.html">leht1</a>
 </head>
 <body>
+	<div class="details">
+		<div class="now-playing">PLAYING x OF y</div>
+		<div class="track-art"></div>
+		<div class="track-name">Track Name</div>
+		<div class="track-artist">Track Artist</div>
+	  </div>
+
 	<div class="main">
 		<div class="navbar">
 			<ul>
-				<li><a href="pealeht.html">AVALEHT</a></li>
-				<li><a href="leht1.html">PLAYLIST</a></li>
+				<li><a href="#">AVALEHT</a></li>
+				<li><a href="#">PLAYLIST</a></li>
 			</ul>
 		</div>
 
@@ -22,14 +31,18 @@
 				<img src="https://th.bing.com/th/id/R.f1d7fe0eb33ae837c085267862c2da5a?rik=WXSne97n3mIxTw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-ICN-G8EqL_I%2fTcNqYfUofwI%2fAAAAAAAAAKw%2f2QoUNXQRnf8%2fs200%2fWindows_Media_Player_11_Logo.png&ehk=FIVxE6jVxazoG0kVGd5cviEezB7%2bc8qIUL65Tm%2bUj44%3d&risl=&pid=ImgRaw&r=0" id="icon" >
 			</div>
 		</div>
-
+	
 		</div>
 	</div>
 
-	<audio id="song">
-	<source src="https://www.youtube.com/watch?v=E8gmARGvPlI&t=7s" type="audio">
-	</audio>
-
+	<div class="music">
+		<button onclick="toggleMusic()" class="music-button">
+		
+		</button>
+	  </div>
+	</footer>
+	<script src="leht2.js"></script>
+  </div>
 
 </body>
 </html>
