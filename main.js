@@ -28,19 +28,19 @@ let track_list = [
 	name: "Last Christmas",
 	artist: "WHAM!",
 	image: "https://audiophileparadise.files.wordpress.com/2013/11/tumblr_lcz1xeqdbv1qbgvpz.jpg",
-	path: "https://freemusicarchive.org/music/Dee_Yan-Key/Christmas_Album/04--Dee_Yan-Key-Winter_Sun/"
+	path: "file:///C:/Users/holterca/Downloads/Wham!%20-%20Last%20Christmas%20(Official%20Video).mp3"
 },
 {
 	name: "Jingle Bell Rock",
 	artist: "Glee",
 	image: "https://img.discogs.com/dkhkjjxZzlFd6447NcHlIl57rwU=/fit-in/500x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6425366-1418910353-2812.jpeg.jpg",
-	path: "https://jesusful.com/glee-jingle-bell-rock-mp3-lyrics/"
+	path: "file:///C:/Users/holterca/Downloads/Glee%20Cast%20-%20Jingle%20Bell%20Rock%20(Lyrics).mp3"
 },
 {
 	name: "Rockin' Around the Christmas Tree",
 	artist: "Brenda Lee",
 	image: "https://i.scdn.co/image/ab67616d0000b2735b4254ac6d85739eec7f989a",
-	path: "https://archive.org/details/RockingAroundTheChristmasTree-BrendaLee",
+	path: "file:///C:/Users/holterca/Downloads/Brenda%20Lee%20-%20Rockin'%20Around%20The%20Christmas%20Tree%20(Official%20Lyric%20Video).mp3",
 },
 {
 	name: "It's Beginning to Look a Lot like Christmas",
