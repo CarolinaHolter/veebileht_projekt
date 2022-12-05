@@ -28,7 +28,7 @@ let track_list = [
 	name: "Last Christmas",
 	artist: "WHAM!",
 	image: "https://audiophileparadise.files.wordpress.com/2013/11/tumblr_lcz1xeqdbv1qbgvpz.jpg",
-	path: "Night_Owl.mp3"
+	path: ""
 },
 {
 	name: "",
