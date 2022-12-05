@@ -1,12 +1,6 @@
 body{
-    background-color: bisque;
+    background-image: url(https://img.freepik.com/free-vector/realistic-snowfall-wallpaper-concept_23-2148387246.jpg?w=360);
     text-align: center;
-    border-style: dashed;
-    border-width: 7px;
-    border-color: rgb(231, 36, 36) rgb(40, 134, 40);
-    border-radius: 5px;
-    margin-left: 120px;
-    margin-right: 130px;
 }
 img{
     text-align: right;
