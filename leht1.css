@@ -1,3 +1,19 @@
 body{
-    background-color: rgb(181, 181, 144);
+    background-image: url(https://media.istockphoto.com/id/1336074248/photo/blue-christmas-and-new-year-holiday-frame.jpg?b=1&s=170667a&w=0&k=20&c=BQHrKhSk2CU54Pduw4ss9ObCqfoW2jLPEwi2T-5hAp4=) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+
+}
+h1{
+    text-align: center;
+    margin-top: 300px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: larger;
 }
