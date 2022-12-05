@@ -46,13 +46,13 @@ let track_list = [
 	name: "It's Beginning to Look a Lot like Christmas",
 	artist: "Michael Buble",
 	image: "https://1.bp.blogspot.com/-XbX5BxSaQ58/U-t3t-d0a3I/AAAAAAAAKBo/NccMHy3pTZM/s1600/It's%2Bbeginning%2Bto%2Blook%2Ba%2Blot%2Blike%2BChristmas_printable.jpg",
-	path: "https://it-s-beginning-to-look-a-lot-like-christmas.mp3juices.bet/",
+	path: "file:///C:/Users/holterca/Downloads/Michael%20Bubl%C3%A9%20-%20It's%20Beginning%20To%20Look%20A%20Lot%20Like%20Christmas%20[Official%20HD%20Audio].mp3",
 },
 {
 	name: "All I Want for Christmas is You",
 	artist: "Mariah Carey",
 	image: "https://images.genius.com/3dc2cc21e3417d54425129a3c4793fd9.615x615x1.jpg",
-	path: "https://archive.org/details/mariahcareyalliwantforchristmasisyou_201912",
+	path: "file:///C:/Users/holterca/Downloads/Mariah%20Carey%20-%20All%20I%20Want%20For%20Christmas%20Is%20You%20(Official%20Audio).mp3",
 },
 ];
 
