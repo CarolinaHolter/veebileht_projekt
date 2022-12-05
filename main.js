@@ -28,7 +28,7 @@ let track_list = [
 	name: "Last Christmas",
 	artist: "WHAM!",
 	image: "https://audiophileparadise.files.wordpress.com/2013/11/tumblr_lcz1xeqdbv1qbgvpz.jpg",
-	path: "https://archive.org/details/wham-last-christmas_202101/WHAM+(Last+Christmas)+(1080p).mp4"
+	path: "https://freemusicarchive.org/music/Dee_Yan-Key/Christmas_Album/04--Dee_Yan-Key-Winter_Sun/"
 },
 {
 	name: "Jingle Bell Rock",
