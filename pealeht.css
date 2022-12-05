@@ -1,15 +1,8 @@
 body{
-    background-color: bisque;
+    background-image: url(https://img.freepik.com/free-vector/realistic-snowfall-wallpaper-concept_23-2148387246.jpg?w=360);
+    background-size: cover;
+    background-position: center;
     text-align: center;
-    border-style: dashed;
-    border-width: 7px;
-    border-color: rgb(231, 36, 36) rgb(40, 134, 40);
-    border-radius: 5px;
-    margin-left: 120px;
-    margin-right: 130px;
-}
-img{
-    text-align: right;
 }
 h1{
     text-align: center;
@@ -19,6 +12,6 @@ p{
     text-align: center;
     font-family: monospace;
     font-size: 32px;
-    color:rgb(77, 40, 227)
+    color:rgb(40, 128, 30)
 
 }
