@@ -28,7 +28,11 @@ let track_list = [
 	name: "Last Christmas",
 	artist: "WHAM!",
 	image: "https://audiophileparadise.files.wordpress.com/2013/11/tumblr_lcz1xeqdbv1qbgvpz.jpg",
+<<<<<<< HEAD
 	path: "https://freemusicarchive.org/music/RTists_for_Christmas/An_Album_for_Christ/RTists_for_Christmas_-_An_Album_for_Christ_-_02_Deck_the_Halls/"
+=======
+	path: "https://freemusicarchive.org/music/Dee_Yan-Key/Christmas_Album/04--Dee_Yan-Key-Winter_Sun/"
+>>>>>>> 20578554f3811b232af20c3f375d2745799c0212
 },
 {
 	name: "Jingle Bell Rock",
