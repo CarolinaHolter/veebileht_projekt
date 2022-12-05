@@ -28,7 +28,7 @@ let track_list = [
 	name: "Last Christmas",
 	artist: "WHAM!",
 	image: "https://audiophileparadise.files.wordpress.com/2013/11/tumblr_lcz1xeqdbv1qbgvpz.jpg",
-	path: "https://archive.org/details/wham-last-christmas_202101/WHAM+(Last+Christmas)+(1080p).mp4"
+	path: "file:///C:/Users/Merili%20Pihlak/Downloads/Wham!%20%20-%20Last%20Christmas.mp3"
 },
 {
 	name: "Jingle Bell Rock",
