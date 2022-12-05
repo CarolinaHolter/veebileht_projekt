@@ -33,25 +33,25 @@ let track_list = [
 {
 	name: "Jingle Bell Rock",
 	artist: "Glee",
-	image: "",
+	image: "https://img.discogs.com/dkhkjjxZzlFd6447NcHlIl57rwU=/fit-in/500x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6425366-1418910353-2812.jpeg.jpg",
 	path: "https://jesusful.com/glee-jingle-bell-rock-mp3-lyrics/"
 },
 {
 	name: "Rockin' Around the Christmas Tree",
 	artist: "Brenda Lee",
-	image: "",
+	image: "https://i.scdn.co/image/ab67616d0000b2735b4254ac6d85739eec7f989a",
 	path: "https://archive.org/details/RockingAroundTheChristmasTree-BrendaLee",
 },
 {
 	name: "It's Beginning to Look a Lot like Christmas",
 	artist: "Michael Buble",
-	image: "",
+	image: "https://1.bp.blogspot.com/-XbX5BxSaQ58/U-t3t-d0a3I/AAAAAAAAKBo/NccMHy3pTZM/s1600/It's%2Bbeginning%2Bto%2Blook%2Ba%2Blot%2Blike%2BChristmas_printable.jpg",
 	path: "https://it-s-beginning-to-look-a-lot-like-christmas.mp3juices.bet/",
 },
 {
 	name: "All I Want for Christmas is You",
 	artist: "Mariah Carey",
-	image: "",
+	image: "https://images.genius.com/3dc2cc21e3417d54425129a3c4793fd9.615x615x1.jpg",
 	path: "https://archive.org/details/mariahcareyalliwantforchristmasisyou_201912",
 },
 ];
