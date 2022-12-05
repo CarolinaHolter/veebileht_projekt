@@ -3,19 +3,41 @@
 <head>
 	<title>Player</title>
 	<link rel="stylesheet" href="leht2.css">
+    <a href="pealeht.html">pealeht</a>
+    <a href="leht1.html">leht1</a>
+</head>
 <body>
 	<div class="details">
-		<div class="now-playing">PLAYING x OF y</div>
+		<div class="now-playing">Hetkel mängib</div>
 		<div class="track-art"></div>
-		<div class="track-name">Track Name</div>
-		<div class="track-artist">Track Artist</div>
+		<div class="track-name">Nimi</div>
+		<div class="track-artist">Esitaja</div>
 	  </div>
 
+	  <div class="buttons">
+		<div class="prev-track" onclick="prevTrack()">
+		  <i class="fa fa-step-backward fa-2x"></i>
+		</div>
+		<div class="playpause-track" onclick="playpauseTrack()">
+		  <i class="fa fa-play-circle fa-5x"></i>
+		</div>
+		<div class="next-track" onclick="nextTrack()">
+		  <i class="fa fa-step-forward fa-2x"></i>
+		</div>
+	  </div>
+
+	  <div class="slider_container">
+		<div class="current-time">00:00</div>
+		<input type="range" min="1" max="100"
+		  value="0" class="seek_slider" onchange="seekTo()">
+		<div class="total-duration">00:00</div>
+	  </div>
+   
 	<div class="main">
 		<div class="navbar">
 			<ul>
-				<li><a href="pealeht.html">AVALEHT</a></li>
-				<li><a href="leht1.html">TRACKLIST</a></li>
+				<li><a href="#">AVALEHT</a></li>
+				<li><a href="#">PLAYLIST</a></li>
 			</ul>
 		</div>
 
@@ -31,16 +53,11 @@
 	
 		</div>
 	</div>
-
-	<div class="music">
-		<button onclick="toggleMusic()" class="music-button">
-		
-		</button>
 	  </div>
-	</footer>
 	<script src="leht2.js"></script>
   </div>
 
 </body>
 </html>
+
 
