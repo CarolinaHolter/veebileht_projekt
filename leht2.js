@@ -42,6 +42,18 @@ let track_list = [
 	image: "Image URL",
 	path: "Shipping_Lanes.mp3",
 },
+{
+	name: "Shipping Lanes",
+	artist: "Chad Crouch",
+	image: "Image URL",
+	path: "Shipping_Lanes.mp3",
+},
+{
+	name: "Shipping Lanes",
+	artist: "Chad Crouch",
+	image: "Image URL",
+	path: "Shipping_Lanes.mp3",
+},
 ];
 
 function loadTrack(track_index) {
