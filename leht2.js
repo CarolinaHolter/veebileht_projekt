@@ -31,28 +31,28 @@ let track_list = [
 	path: ""
 },
 {
-	name: "",
-	artist: "",
+	name: "Jingle Bell Rock",
+	artist: "Glee",
 	image: "",
-	path: ""
+	path: "https://jesusful.com/glee-jingle-bell-rock-mp3-lyrics/"
 },
 {
-	name: "",
-	artist: "",
+	name: "Rockin' Around the Christmas Tree",
+	artist: "Brenda Lee",
 	image: "",
-	path: "",
+	path: "https://archive.org/details/RockingAroundTheChristmasTree-BrendaLee",
 },
 {
-	name: "",
-	artist: "",
+	name: "It's Beginning to Look a Lot like Christmas",
+	artist: "Michael Buble",
 	image: "",
-	path: "",
+	path: "https://it-s-beginning-to-look-a-lot-like-christmas.mp3juices.bet/",
 },
 {
-	name: "",
-	artist: "",
+	name: "All I Want for Christmas is You",
+	artist: "Mariah Carey",
 	image: "",
-	path: "",
+	path: "https://archive.org/details/mariahcareyalliwantforchristmasisyou_201912",
 },
 ];
 
