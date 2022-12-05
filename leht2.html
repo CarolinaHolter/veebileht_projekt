@@ -3,35 +3,49 @@
 <head>
 	<title>Player</title>
 	<link rel="stylesheet" href="leht2.css">
-    <a href="pealeht.html">pealeht</a>
-    <a href="leht1.html">leht1</a>
 </head>
 <body>
-	<div class="details">
-		<div class="now-playing">Hetkel mängib</div>
-		<div class="track-art"></div>
-		<div class="track-name">Nimi</div>
-		<div class="track-artist">Esitaja</div>
-	  </div>
+	<link rel="stylesheet"
+	href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
 
-	  <div class="buttons">
-		<div class="prev-track" onclick="prevTrack()">
-		  <i class="fa fa-step-backward fa-2x"></i>
-		</div>
-		<div class="playpause-track" onclick="playpauseTrack()">
-		  <i class="fa fa-play-circle fa-5x"></i>
-		</div>
-		<div class="next-track" onclick="nextTrack()">
-		  <i class="fa fa-step-forward fa-2x"></i>
-		</div>
-	  </div>
+<!-- Define the section for displaying details -->
+<div class="details">
+<div class="now-playing">PLAYING x OF y</div>
+<div class="track-art"></div>
+<div class="track-name">Track Name</div>
+<div class="track-artist">Track Artist</div>
+</div>
 
-	  <div class="slider_container">
-		<div class="current-time">00:00</div>
-		<input type="range" min="1" max="100"
-		  value="0" class="seek_slider" onchange="seekTo()">
-		<div class="total-duration">00:00</div>
-	  </div>
+<!-- Define the section for displaying track buttons -->
+<div class="buttons">
+<div class="prev-track" onclick="prevTrack()">
+	<i class="fa fa-step-backward fa-2x"></i>
+</div>
+<div class="playpause-track" onclick="playpauseTrack()">
+	<i class="fa fa-play-circle fa-5x"></i>
+</div>
+<div class="next-track" onclick="nextTrack()">
+	<i class="fa fa-step-forward fa-2x"></i>
+</div>
+</div>
+
+<!-- Define the section for displaying the seek slider-->
+<div class="slider_container">
+<div class="current-time">00:00</div>
+<input type="range" min="1" max="100"
+	value="0" class="seek_slider" onchange="seekTo()">
+<div class="total-duration">00:00</div>
+</div>
+
+<!-- Define the section for displaying the volume slider-->
+<div class="slider_container">
+<i class="fa fa-volume-down"></i>
+<input type="range" min="1" max="100"
+	value="99" class="volume_slider" onchange="setVolume()">
+<i class="fa fa-volume-up"></i>
+</div>
+</div>
    
 	<div class="main">
 		<div class="navbar">
@@ -40,17 +54,6 @@
 				<li><a href="#">PLAYLIST</a></li>
 			</ul>
 		</div>
-
-		<div class="columns">
-			<div class="left-col">
-				<h1>CHRISTMAS <br>IS <br>THE <br>MOST <br>WONDERFUL <br>TIME</h1>
-			</div>
-			<div class="right-col">
-				<p>Click to play</p>
-				<img src="https://th.bing.com/th/id/R.f1d7fe0eb33ae837c085267862c2da5a?rik=WXSne97n3mIxTw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-ICN-G8EqL_I%2fTcNqYfUofwI%2fAAAAAAAAAKw%2f2QoUNXQRnf8%2fs200%2fWindows_Media_Player_11_Logo.png&ehk=FIVxE6jVxazoG0kVGd5cviEezB7%2bc8qIUL65Tm%2bUj44%3d&risl=&pid=ImgRaw&r=0" id="icon" >
-			</div>
-		</div>
-	
 		</div>
 	</div>
 	  </div>
@@ -59,5 +62,6 @@
 
 </body>
 </html>
+
 
 

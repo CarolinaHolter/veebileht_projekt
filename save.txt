@@ -1,0 +1,43 @@
+.columns{
+  width: 100%;
+  position: absolute;
+  top: 30%;
+}
+
+.left-col{
+  margin-left: 3%;
+}
+
+.left-col h1{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight:bold;
+  float: left;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.right-col{
+  float: right; 
+  display: flex;
+  align-items: center;
+  font-weight:bold;
+  margin-right: 12%;
+  margin-top: 80px;
+}
+.right-col{
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  font-weight:bold;
+  margin-right: 70px;
+
+}
+
+from html --V
+
+
+		<div class="columns">
+			<div class="left-col">
+				<h1>CHRISTMAS <br>IS <br>THE <br>MOST <br>WONDERFUL <br>TIME</h1>
+			</div>
+		</div>
+	
