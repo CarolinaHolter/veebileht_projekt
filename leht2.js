@@ -31,28 +31,28 @@ let track_list = [
 	path: "Night_Owl.mp3"
 },
 {
-	name: "Enthusiast",
-	artist: "Tours",
-	image: "Image URL",
-	path: "Enthusiast.mp3"
+	name: "",
+	artist: "",
+	image: "",
+	path: ""
 },
 {
-	name: "Shipping Lanes",
-	artist: "Chad Crouch",
-	image: "Image URL",
-	path: "Shipping_Lanes.mp3",
+	name: "",
+	artist: "",
+	image: "",
+	path: "",
 },
 {
-	name: "Shipping Lanes",
-	artist: "Chad Crouch",
-	image: "Image URL",
-	path: "Shipping_Lanes.mp3",
+	name: "",
+	artist: "",
+	image: "",
+	path: "",
 },
 {
-	name: "Shipping Lanes",
-	artist: "Chad Crouch",
-	image: "Image URL",
-	path: "Shipping_Lanes.mp3",
+	name: "",
+	artist: "",
+	image: "",
+	path: "",
 },
 ];
 
