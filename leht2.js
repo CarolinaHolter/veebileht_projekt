@@ -25,8 +25,8 @@ let curr_track = document.createElement('audio');
 // Define the list of tracks that have to be played
 let track_list = [
 {
-	name: "Night Owl",
-	artist: "Broke For Free",
+	name: "Last Christmas",
+	artist: "WHAM!",
 	image: "Image URL",
 	path: "Night_Owl.mp3"
 },
