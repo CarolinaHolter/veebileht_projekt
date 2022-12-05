@@ -1,5 +1,5 @@
-// Javascript kood on kopeeritud järgmiselt veebilehelt: https://www.geeksforgeeks.org/create-a-music-player-using-javascript/
 Javascript kood on kopeeritud järgmiselt veebilehelt: https://www.geeksforgeeks.org/create-a-music-player-using-javascript/
+
 let now_playing = document.querySelector(".now-playing");
 let track_art = document.querySelector(".track-art");
 let track_name = document.querySelector(".track-name");
