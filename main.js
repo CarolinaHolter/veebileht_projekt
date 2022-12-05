@@ -28,7 +28,7 @@ let track_list = [
 	name: "Last Christmas",
 	artist: "WHAM!",
 	image: "https://audiophileparadise.files.wordpress.com/2013/11/tumblr_lcz1xeqdbv1qbgvpz.jpg",
-	path: "file:///C:/Users/holterca/Downloads/Wham!%20-%20Last%20Christmas%20(Official%20Video).mp3"
+	path: "https://freemusicarchive.org/music/RTists_for_Christmas/An_Album_for_Christ/RTists_for_Christmas_-_An_Album_for_Christ_-_02_Deck_the_Halls/"
 },
 {
 	name: "Jingle Bell Rock",
