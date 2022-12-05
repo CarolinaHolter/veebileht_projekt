@@ -31,7 +31,6 @@ body {
   
   /* Smoothly transition the background color */
   transition: background-color .5s;
-  align-content: center;
   }
   
   /* Using flex with the column direction to
