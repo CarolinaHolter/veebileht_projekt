@@ -45,7 +45,7 @@ let track_list = [
 {
 	name: "It's Beginning to Look a Lot like Christmas",
 	artist: "Michael Buble",
-	image: "https://1.bp.blogspot.com/-XbX5BxSaQ58/U-t3t-d0a3I/AAAAAAAAKBo/NccMHy3pTZM/s1600/It's%2Bbeginning%2Bto%2Blook%2Ba%2Blot%2Blike%2BChristmas_printable.jpg",
+	image: "https://th.bing.com/th/id/OIP.O6Q0Uah6-UJc_yLVjc_y1wHaHa?pid=ImgDet&rs=1",
 	path: "file:///C:/Users/holterca/Downloads/Michael%20Bubl%C3%A9%20-%20It's%20Beginning%20To%20Look%20A%20Lot%20Like%20Christmas%20[Official%20HD%20Audio].mp3",
 },
 {
