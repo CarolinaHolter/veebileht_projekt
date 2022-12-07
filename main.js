@@ -41,7 +41,7 @@ let track_list = [
 	artist: "Brenda Lee",
 	image: "https://i.scdn.co/image/ab67616d0000b2735b4254ac6d85739eec7f989a",
 	path: "file:///H:/public_html/Brenda%20Lee%20-%20Rockin'%20Around%20The%20Christmas%20Tree%20(Official%20Lyric%20Video).mp3"
-}
+},
 {
 	name: "It's Beginning to Look a Lot like Christmas",
 	artist: "Michael Buble",
