@@ -28,31 +28,31 @@ let track_list = [
 	name: "Last Christmas",
 	artist: "WHAM!",
 	image: "https://audiophileparadise.files.wordpress.com/2013/11/tumblr_lcz1xeqdbv1qbgvpz.jpg",
-	path: "file:///C:/Users/holterca/Downloads/Wham!%20-%20Last%20Christmas%20(Official%20Video).mp3"
+	path: "file:///H:/public_html/Wham!%20-%20Last%20Christmas%20(Official%20Video).mp3"
 },
 {
 	name: "Jingle Bell Rock",
 	artist: "Glee",
 	image: "https://img.discogs.com/dkhkjjxZzlFd6447NcHlIl57rwU=/fit-in/500x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6425366-1418910353-2812.jpeg.jpg",
-	path: "file:///C:/Users/holterca/Downloads/Glee%20Cast%20-%20Jingle%20Bell%20Rock%20(Lyrics).mp3"
+	path: "file:///H:/public_html/Glee%20Cast%20-%20Jingle%20Bell%20Rock%20(Lyrics).mp3"
 },
 {
 	name: "Rockin' Around the Christmas Tree",
 	artist: "Brenda Lee",
 	image: "https://i.scdn.co/image/ab67616d0000b2735b4254ac6d85739eec7f989a",
-	path: "file:///C:/Users/holterca/Downloads/Brenda%20Lee%20-%20Rockin'%20Around%20The%20Christmas%20Tree%20(Official%20Lyric%20Video).mp3",
-},
+	path: "file:///H:/public_html/Brenda%20Lee%20-%20Rockin'%20Around%20The%20Christmas%20Tree%20(Official%20Lyric%20Video).mp3"
+}
 {
 	name: "It's Beginning to Look a Lot like Christmas",
 	artist: "Michael Buble",
 	image: "https://th.bing.com/th/id/OIP.O6Q0Uah6-UJc_yLVjc_y1wHaHa?pid=ImgDet&rs=1",
-	path: "file:///C:/Users/holterca/Downloads/Michael%20Bubl%C3%A9%20-%20It's%20Beginning%20To%20Look%20A%20Lot%20Like%20Christmas%20[Official%20HD%20Audio].mp3",
+	path: "file:///H:/public_html/Michael%20Bubl%C3%A9%20-%20It's%20Beginning%20To%20Look%20A%20Lot%20Like%20Christmas%20[Official%20HD%20Audio].mp3",
 },
 {
 	name: "All I Want for Christmas is You",
 	artist: "Mariah Carey",
 	image: "https://images.genius.com/3dc2cc21e3417d54425129a3c4793fd9.615x615x1.jpg",
-	path: "file:///C:/Users/holterca/Downloads/Mariah%20Carey%20-%20All%20I%20Want%20For%20Christmas%20Is%20You%20(Official%20Audio).mp3",
+	path: "file:///H:/public_html/Mariah%20Carey%20-%20All%20I%20Want%20For%20Christmas%20Is%20You%20(Official%20Audio).mp3",
 },
 ];
 
